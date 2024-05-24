@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sejid Mrad</h1>
 <h3 align="center">A passionate Electrical Engineer from Tunisia</h3>
 
-- 🔭 I’m currently working on **an mqtt broker from scratch**
-
 - 🌱 I’m currently learning **ROS**
 
 <h3 align="left">Connect with me:</h3>
